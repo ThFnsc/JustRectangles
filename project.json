@@ -1,0 +1,167 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "A series of colored rectangles travelling through the screen in varied directions and speeds.\nHas customizable color palettes, speed, density, etc.\nWorks any resolution (and multi-monitor setup).\n\nMade with JavaScript and p5 library[www.p5js.org].\n\nHope you like it!\nSuggestions of how this wallpaper can be improved are always welcome.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"background_color" : 
+			{
+				"order" : 101,
+				"text" : "Background Color",
+				"type" : "color",
+				"value" : "0.7568627450980392 0 0"
+			},
+			"brightness" : 
+			{
+				"fraction" : false,
+				"max" : 100,
+				"min" : 0,
+				"order" : 105,
+				"text" : "Brightness",
+				"type" : "slider",
+				"value" : 30
+			},
+			"leave_traces" : 
+			{
+				"order" : 102,
+				"text" : "Leave traces",
+				"type" : "bool",
+				"value" : false
+			},
+			"maximum_alpha" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 111,
+				"precision" : 2,
+				"step" : 0.050000000000000003,
+				"text" : "Maximum alpha",
+				"type" : "slider",
+				"value" : 1
+			},
+			"maximum_hue" : 
+			{
+				"fraction" : false,
+				"max" : 360,
+				"min" : 0,
+				"order" : 107,
+				"text" : "Maximum Hue",
+				"type" : "slider",
+				"value" : 360
+			},
+			"maximum_speed" : 
+			{
+				"fraction" : true,
+				"max" : 10,
+				"min" : 0.10000000000000001,
+				"order" : 110,
+				"precision" : 2,
+				"step" : 0.050000000000000003,
+				"text" : "Maximum speed",
+				"type" : "slider",
+				"value" : 2
+			},
+			"maximum_width" : 
+			{
+				"fraction" : false,
+				"max" : 1000,
+				"min" : 5,
+				"order" : 113,
+				"text" : "Maximum width",
+				"type" : "slider",
+				"value" : 300
+			},
+			"minimum_alpha" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 109,
+				"precision" : 2,
+				"step" : 0.050000000000000003,
+				"text" : "Minimum alpha",
+				"type" : "slider",
+				"value" : 0.80000000000000004
+			},
+			"minimum_hue" : 
+			{
+				"fraction" : false,
+				"max" : 360,
+				"min" : 0,
+				"order" : 106,
+				"text" : "Minimum Hue",
+				"type" : "slider",
+				"value" : 0
+			},
+			"minimum_speed" : 
+			{
+				"fraction" : true,
+				"max" : 10,
+				"min" : 0.10000000000000001,
+				"order" : 108,
+				"precision" : 2,
+				"step" : 0.050000000000000003,
+				"text" : "Minimum speed",
+				"type" : "slider",
+				"value" : 0.5
+			},
+			"minimum_width" : 
+			{
+				"fraction" : false,
+				"max" : 1000,
+				"min" : 5,
+				"order" : 112,
+				"text" : "Minimum width",
+				"type" : "slider",
+				"value" : 50
+			},
+			"rectangle_count" : 
+			{
+				"fraction" : false,
+				"max" : 200,
+				"min" : 1,
+				"order" : 103,
+				"text" : "Rectangle count",
+				"type" : "slider",
+				"value" : 35
+			},
+			"saturation" : 
+			{
+				"fraction" : false,
+				"max" : 100,
+				"min" : 0,
+				"order" : 104,
+				"text" : "Saturation",
+				"type" : "slider",
+				"value" : 100
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"volume_multiplier" : 
+			{
+				"fraction" : false,
+				"max" : 1000,
+				"min" : 1,
+				"order" : 100,
+				"text" : "Volume multiplier",
+				"type" : "slider",
+				"value" : 200
+			}
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Abstract" ],
+	"title" : "Just rectangles",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : "1764721876"
+}

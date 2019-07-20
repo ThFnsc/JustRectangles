@@ -1,0 +1,18 @@
+{
+	"approved": true,
+	"contentrating": "Everyone",
+	"description": "A self-generating maze that solves itself when construction is complete.\r\nHas customizable colors, speed, size, block count...\r\nWorks any resolution (and multi-monitor setup).\r\n\r\nMade with JavaScript and [url=https://www.p5js.org]p5 library[/url].\r\nUsed some ideas from the amazing [url=https://youtube.com/user/shiffman]'The Coding Train'[/url] youtube channel.\r\n\r\nHope you like it!\r\nSuggestions of how this wallpaper can be improved are always welcome.\r\n\r\nThe default properties come with a 40px bottom-margin so no blocks get hidden by the taskbar. If you have a taskbar with a different height or position you can change the margins in the properties.",
+	"file": "index.html",
+	"general": {
+		"properties": {},
+		"supportsaudioprocessing": true
+	},
+	"preview": "preview.gif",
+	"tags": [
+		"Abstract"
+	],
+	"title": "Amazing shapes",
+	"type": "web",
+	"visibility": "public",
+	"workshopid": "1550989740"
+}
